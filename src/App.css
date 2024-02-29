@@ -27,7 +27,7 @@ a:hover {
   background-color: rgb(0, 21, 41);
 }
 
-/* .main {
+.main {
   flex: 0.8;
   width: 100%;
 }
@@ -374,4 +374,4 @@ a:hover {
   flex-direction: column;
   padding: 20px;
   align-items: center;
-} */
+}
