@@ -1,7 +1,13 @@
-/* eslint-disable no-unused-vars */
 import { Routes, Route, Link } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
-import { Navbar } from "./components";
+import {
+  Navbar,
+  Cryptocurrencies,
+  Homepage,
+  CryptoDetails,
+  News,
+  Exchanges,
+} from "./components";
 import "./App.css";
 
 function App() {
